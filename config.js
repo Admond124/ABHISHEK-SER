@@ -10,7 +10,7 @@ global.owner = [
   ['2347058478793', 'NovaXbot', true],
   [''],
   [''] 
-] //Number of owners
+] //Number of owner
 
 global.mods = ['2347058478793','2347058478793'] 
 global.prems = ['2347058478793', '2347058478793', '2347058478793']
